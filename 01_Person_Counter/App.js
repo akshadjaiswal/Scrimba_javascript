@@ -1,6 +1,12 @@
+let incrementCounter = document.getElementById("count");
+let count = 0;
 
-let count=0
-function increment (){
-    count = count + 1;
+increment=()=> {
+  count = count + 1;
+  incrementCounter.innerText = count;
+}
+
+save=()=>{
     console.log(count)
 }
+save();
