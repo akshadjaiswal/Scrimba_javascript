@@ -4,3 +4,5 @@
 ## Projects -
 ### 1 [Person Counter](https://akshadjaiswal-person-counter.netlify.app/) 
 - [Code](https://github.com/akshadjaiswal/Scrimba_javascript/tree/main/01_Person_Counter)
+
+### 2 Backjack game
