@@ -6,4 +6,4 @@
 - [Code](https://github.com/akshadjaiswal/Scrimba_javascript/tree/main/01_Person_Counter)
 
 ### 2 Backjack game
-- [Code]()
+- [Code](https://github.com/akshadjaiswal/Scrimba_javascript/tree/main/02%20Blackjack%20%20Game)
