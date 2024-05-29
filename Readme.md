@@ -5,5 +5,5 @@
 ### 1 [Person Counter](https://akshadjaiswal-person-counter.netlify.app/) 
 - [Code](https://github.com/akshadjaiswal/Scrimba_javascript/tree/main/01_Person_Counter)
 
-### 2 Backjack game
+### 2 [Backjack game] ()
 - [Code](https://github.com/akshadjaiswal/Scrimba_javascript/tree/main/02%20Blackjack%20%20Game)
