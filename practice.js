@@ -101,16 +101,25 @@ for (let i = 0; i < largeCountries.length; i++) {
   console.log(largeCountries[i]);
 }
 
-let largeCountries1 = ["Tuvalu","India","USA","Indonesia","Monaco"]
+let largeCountries1 = ["Tuvalu", "India", "USA", "Indonesia", "Monaco"];
 
-// You need to help me fixup the largeCountries array so that 
+// You need to help me fixup the largeCountries array so that
 // China and Pakistan are added back into their respective places
 
 // Use push() & pop() and their counterparts unshift() & shift()
 // Google how to use unshift() and shift()
 
-largeCountries1.pop()
-largeCountries1.push("Pakistan")
-largeCountries1.shift()
-largeCountries1.unshift("China")
-console.log(largeCountries1)
+largeCountries1.pop();
+largeCountries1.push("Pakistan");
+largeCountries1.shift();
+largeCountries1.unshift("China");
+console.log(largeCountries1);
+
+let dayOfMonth = 13;
+let weekday = "Friday";
+
+// If it is Friday the 13th, log out this spooky face: 😱
+// Use the logical "AND operator" -> &&
+if (dayOfMonth === 13 && weekday === "Friday") {
+  console.log("😱");
+}
