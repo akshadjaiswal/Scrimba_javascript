@@ -134,3 +134,5 @@ function getHand() {
 }
 
 console.log(getHand());
+
+// Random 
