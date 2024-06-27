@@ -16,5 +16,5 @@ function save() {
 
 function reset() {
   incrementCounter.textContent = 0;
-  count=0
+  count = 0;
 }
